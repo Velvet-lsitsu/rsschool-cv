@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Velvet-lsitsu.github.io/rsschool-cv/cv
