@@ -1,1 +1,1 @@
-https://Velvet-lsitsu.github.io/rsschool-cv/cv
+# [CV](https://velvet-lsitsu.github.io/rsschool-cv/)
