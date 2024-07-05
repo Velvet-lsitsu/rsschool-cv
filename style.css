@@ -1,3 +1,133 @@
-head {
+html{
+    height: 100%;
+}
+
+body {
+    display: flex;
+    margin-top: 5%; 
+    margin-bottom: 5%;
+    height: auto;
+    background-color: rgb(210, 201, 189);
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 0 50px 5px black;
+    
+}
+a {
+    color: white;
+}
+a:visited {
+    color: white;
+}
+
+.fff{
+    position: relative;
+    display: block;
+    min-width: 960px;
+    min-height: 700px;
+}
+
+header {
+    width: 70%;
+    
+    background-color: white;
+    height: auto;
+    float: right;
+}
+
+h1{
+    margin-left: 5%;
+    font-family: system-ui;
+}
+
+header p {
+    margin-left: 5px;
+    font-family: system-ui;
+    
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    width: 30%;
+    height: 60%;
+    background-color: orange;
+    position: absolute;
+    float: left;
+    bottom: auto;
+    
+}
+
+.avatar{
+    position: inherit;
+    width: auto;
+    height: auto;
+    margin: 5%;
+}
+
+.Contact_Infmormation{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(41, 41, 41);
+    position: inherit; 
+    top: 250px;
+    font-family: system-ui;
+    color: aliceblue;
+    
+
+}
+
+.Contact_Infmormation p {
+    margin-left: 20px;
+    font-size: 30px;
+}
+
+.contact {
+    font-size: 25px;
+    }
+li{
+    margin-bottom: 20px;
+}
+
+
+main {
+    width: 70%;
+    height: 100%;
+    background-color: white;
+    height: auto;
+    float: right;
+    font-family: system-ui;
+}
+
+.work{
+    margin-left: 10px;
+}
+.education{
+    margin-left: 20px;
+}
+.skills{
+    margin-left: 30px;
+}
+.code{
+    margin-left: 40px;
+}
+
+
+
+
+footer{
+    width: 100%;
+    height: 100%;
+    background-color: orange;
+    height: auto;
+    float: right;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+}
+footer img{
+    position: inherit;
+    width: 10%;
+    margin: 10px;
     
 }
