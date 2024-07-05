@@ -1,0 +1,173 @@
+html{
+    
+    scroll-behavior: smooth;
+    display: flex;
+    justify-content: center;
+       
+
+}
+
+body {
+    min-width: 400px;
+    max-width: 1040px;
+    margin-top: 5%; 
+    margin-bottom: 5%;
+    width: 100vw;
+    height: 100%;
+    background-color: rgb(210, 201, 189);
+
+    box-shadow: 0 0 50px 5px black;
+    
+}
+a {
+    color: white;
+}
+a:visited {
+    color: white;
+}
+
+header {
+    width: 100%;
+    height: 50px;
+    margin-top: 15px;
+    background-color: white;
+    float: right;
+}
+
+
+.boxtop {
+    height: 100%;
+    min-width: 400px;
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+nav {
+ 
+}
+.nav_link{
+    margin-right: 10px;
+}
+
+h1, h2{
+    font-family: system-ui;
+}
+
+header p {
+    margin-left: 5px;
+    font-family: system-ui;
+    
+}
+
+main {
+    width: 100%;
+    max-width: 1040px;
+    height: 100%;
+    background-color: white;
+    height: auto;
+    float: right;
+    font-family: system-ui;
+}
+
+.head_name {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.head_title{
+    margin: 10px;
+}
+.avatar{
+    position: inherit;
+    width: auto;
+    height: auto;
+    margin: 5%;
+}
+
+
+.description{
+    margin: 5px;
+    width: 100%;
+}
+
+.Contact_Infmormation{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(41, 41, 41);
+    position: inherit; 
+    top: 250px;
+    font-family: system-ui;
+    color: aliceblue;
+    
+
+}
+
+.Contact_Infmormation p {
+    margin-left: 20px;
+    font-size: 30px;
+}
+
+.contact {
+    font-size: 25px;
+    }
+li{
+    margin-bottom: 20px;
+}
+
+
+
+
+.work{
+    margin-left: 10px;
+}
+.education{
+    margin-left: 20px;
+}
+.skills{
+    margin-left: 30px;
+}
+.code{
+    margin-left: 40px;
+}
+
+
+
+
+footer{
+    width: 100%;
+    height: 100%;
+    background-color: orange;
+    height: auto;
+    float: right;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.foot_div{
+    width: 100px;
+    margin: 0;
+    display: flex;
+    align-items: center;
+}
+
+.footer{
+    color: black;
+    margin: 0;
+}
+
+
+#Layer_1{
+    position: inherit;
+    width: 100%;
+    margin: 10px;
+}
+
+ul{
+    list-style-type: none;
+}
